@@ -17,7 +17,7 @@ Bom, é isso. Espero que gostem...
 💻 Termux
 $ pkg upgrade -y && pkg update -y
 $ pkg install git python figlet -y
-$ git clone https://github.com/drmidnightytb/Loading-Bar
+$ git clone https://github.com/MidD3Vil/Loading-Bar
 $ cd Loading-Bar
 $ python3 main.py
 ```
